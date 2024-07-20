@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/WINNINGANDLOSING/KL-520K0140-52000189-Building-a-RAG-Based-Question-Answering-Model-for-Vietnam-Civil-Code-.git
+git add test.py
+git commit -m "Add test.py"
+git push -u origin main
